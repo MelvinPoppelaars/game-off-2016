@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 0088d281540bf4a34983aef9afd3b966
+timeCreated: 1478723064
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Plume
+    21300002: Right_Arm
+    21300004: Head
+    21300006: Left_Arm
+    21300008: Left_Arm
+    21300010: Eyes_Jump
+    21300012: Middle
+    21300014: Right_Leg
+    21300016: Left_Leg
+    21300018: Eyes_Normal
+    21300020: Right-Arm
+    21300022: Knight_6
+    21300024: Eyes_Blink
+    21300026: Middle
+    21300028: Plume
+    21300030: Eyes_Normal
+    21300032: Right_Arm
+    21300034: Left_Arm
+    21300036: Eyes_Jumping
+    21300038: Eyes_Blinking
+    21300040: Right_Leg
+    21300042: Left_Leg
+    21300044: Right_legJump
+    21300046: Left_legJump
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plume
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 168
+        width: 63
+        height: 27
+      alignment: 9
+      pivot: {x: 0.8982842, y: 0.19022284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eyes_Normal
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right_Arm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.49004284, y: 0.8540304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left_Arm
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 83
+        width: 14
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3577554, y: 0.8741455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eyes_Jumping
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 86
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 72
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eyes_Blinking
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 53
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Middle
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 49
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right_Leg
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8845502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left_Leg
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 6
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8845501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right_legJump
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 14
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left_legJump
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 14
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

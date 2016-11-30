@@ -1,0 +1,17 @@
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/UnityEngine.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/UnityEditor.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Mono.Cecil.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Unity.DataContract.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/obj/Debug/Assembly-CSharp.dll
+/Users/melvin/Desktop/GameProjects/GGO2016/GGO16/GGO2016/obj/Debug/Assembly-CSharp.dll.mdb
